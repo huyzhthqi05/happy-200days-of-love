@@ -274,7 +274,7 @@ body{
     animation: car 4s 1s forwards, car1 2s 5s forwards;
 }
 .boxCar img{
-    width: 350px;
+    width: 250px;
 }
 @keyframes car{
     0%{
